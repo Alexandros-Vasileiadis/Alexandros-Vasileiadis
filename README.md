@@ -1,7 +1,7 @@
 # Welcome to Alexandros-Vasileiadis Page!
 
 ## About Me
-I'm a passionate Computer Science student. This GitHub account is where I share my personal open-source projects, contributions, and projects related to my University. 
+I'm a passionate Computer Science student. This GitHub account is where I share my personal open-source projects, contributions, and projects related to my university or work. 
 
 ## Projects
 Here are some of the projects you'll find in this repository:
