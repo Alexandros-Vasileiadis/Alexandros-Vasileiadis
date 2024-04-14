@@ -7,7 +7,6 @@ I'm Alex Vasileiadis, a dedicated Computer Science student at the University of 
 
 - **University of Cyprus, Nicosia**
   - Bachelor of Computer Science (Sep 2022 - Present)
-  - Actively engaged in coursework and projects related to AI, machine learning, and data science.
 
 ## Contact
 You can contact me on [LinkedIn](http://www.linkedin.com/in/alexandros-vasileiadis) or via [email](mailto:alex.vasileiadis@icloud.com) if you have any questions or want to collaborate on projects.
